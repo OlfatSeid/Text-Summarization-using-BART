@@ -5,7 +5,8 @@
 
 This notebook provides a comprehensive solution for text summarization using the BART Large Language Model (LLM).
 It includes functionality for extracting text from PDF files, generating embeddings,
-performing Retrieval-Augmented Generation (RAG), and displaying the output using the `ipywidgets` library.
+performing Retrieval-Augmented Generation (RAG),
+fine-tuning BART for improved performance, and displaying the output using the `ipywidgets` library.
 
 ## Features
 
@@ -13,6 +14,7 @@ performing Retrieval-Augmented Generation (RAG), and displaying the output using
 - **Embeddings**: Generates embeddings for the extracted text using a pre-trained model.
 - **BART Model for Summarization**: Utilizes the BART model for generating summaries.
 - **Retrieval-Augmented Generation (RAG)**: Enhances summarization by incorporating relevant retrieved documents.
+- **Fine-Tuning BART**: Customizes the BART model for improved summarization performance on specific datasets.
 - **Interactive UI**: Uses the `ipywidgets` library for an interactive user interface to display the summarization results.
 
 ## Requirements
