@@ -24,7 +24,7 @@ Before running the notebook, ensure you have the following dependencies installe
 
 
 
-## Acknowledgments
+### Acknowledgments
 Hugging Face for the BART model and transformers library.
 PyMuPDF for PDF text extraction.
 Sentence-Transformers for embedding generation.
