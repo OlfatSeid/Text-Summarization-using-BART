@@ -29,4 +29,4 @@ Hugging Face for the BART model and transformers library.
 PyMuPDF for PDF text extraction.
 Sentence-Transformers for embedding generation.
 
-----------------------------------------------------------------------
+----------------------------
