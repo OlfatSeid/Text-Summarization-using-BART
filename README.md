@@ -9,7 +9,7 @@ performing Retrieval-Augmented Generation (RAG),
 fine-tuning BART for improved performance, and displaying the output using the `ipywidgets` library.
 
 ## Features
-000000000000000000000000000000000000000000000000000
+
 - **Text Extraction from PDF**: Extracts text content from PDF files.
 - **Embeddings**: Generates embeddings for the extracted text using a pre-trained model.
 - **BART Model for Summarization**: Utilizes the BART model for generating summaries.
