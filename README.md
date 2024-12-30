@@ -166,7 +166,7 @@ def handle_summarize_text(b):
 1. Add support for additional languages.
 2. Enable file uploads for batch text summarization.
 3. Enhance error handling and user feedback.
-
+------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------
 # Text Summarization
 
@@ -185,4 +185,4 @@ This notebook provides a comprehensive solution for text summarization using the
 - **Interactive UI**: Uses the `ipywidgets` library for an interactive user interface to display the summarization results.
 
 ----------------------------------------------------------------------------------
-
+---------------------------------------------------------------
