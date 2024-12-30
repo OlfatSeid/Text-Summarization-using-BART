@@ -167,7 +167,6 @@ def handle_summarize_text(b):
 2. Enable file uploads for batch text summarization.
 3. Enhance error handling and user feedback.
 
-## License
-This project is open-source and available under the MIT License.
+
 
 
